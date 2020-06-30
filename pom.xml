@@ -44,7 +44,7 @@
 	<configuration>
 	  <archive>
 	    <manifest>
-	      <mainClass>mx.unam.ciencias.ast.Simulacion2</mainClass>
+	      <mainClass>mx.unam.ciencias.batas.Simulacion2</mainClass>
 	    </manifest>
 	  </archive>
 	</configuration>

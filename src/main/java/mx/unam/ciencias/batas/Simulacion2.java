@@ -1,6 +1,6 @@
-package mx.unam.ciencias.ast;
+package mx.unam.ciencias.batas;
 
-public class Simulacion1{
+public class Simulacion2{
   public static void main(String[] args){
     System.out.println("Hola");
   }
