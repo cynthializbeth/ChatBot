@@ -1,1 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2022-05-31T18:47:45.673Z" agent="5.0 (X11)" etag="JC675n3rGl_AWvnf14jU" version="18.2.0" type="github"><diagram id="2JbGGE84wMJiUyhmYr_4" name="Page-1">lZTfT4MwEMf/Gh5NGGU/fHUyjVGj2YPRtwZOWlM40h0D/OstUujq3KJPtJ/e9e6+dyVg66K90bwSD5iBCqIwawN2HUTRbBauzKcn3UBidjmAXMvMGjmwlZ9gYWhpLTPYeYaEqEhWPkyxLCElj3GtsfHN3lH5USuewxHYplwd0xeZkZjqCt3BLchcjKGX40nBR2sLdoJn2BwglgRsrRFpWBXtGlSv3ijM4Lc5cTplpqGkvzhUbNPsnlfRfN4mSjyu27u314u5zY26sWLIjAB2i5oE5lhylTh6pbEuM+hvDc3O2dwjVgbODPwAos52k9eEBgkqlD0dYvaBTpZi0Q5rncKZ/ONJSDOCgAWQ7oyfBsVJ7v37uZ2FfLKbXJ9QmshRaOd2ubQ9s1PLWOhfQVznQNbLaW4WB2k49N2Jf3QlHqLtuaptCUdtck3oFW2EJNhW/FurxjzF3wTfgyZoz0t+LKV1iBc/JBnnvDl4FuOoi4MXsQhPq+/p5kQyW/csBk3d34UlXw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-31T19:23:35.181Z" agent="5.0 (X11)" etag="nir7TRgMNP-Ig0pNUq6y" version="18.2.0" type="github">
+  <diagram id="2JbGGE84wMJiUyhmYr_4" name="Page-1">
+    <mxGraphModel dx="2947" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p3FwsQ8255xElhNCxJZY-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="p3FwsQ8255xElhNCxJZY-4" edge="1" target="Eg1UViGP4NI8hnrru9A3-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-760" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Eg1UViGP4NI8hnrru9A3-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="p3FwsQ8255xElhNCxJZY-4" target="Eg1UViGP4NI8hnrru9A3-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p3FwsQ8255xElhNCxJZY-4" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Hola&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3333FF;" parent="1" vertex="1">
+          <mxGeometry x="-1030" y="340" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eg1UViGP4NI8hnrru9A3-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Eg1UViGP4NI8hnrru9A3-1" target="Eg1UViGP4NI8hnrru9A3-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eg1UViGP4NI8hnrru9A3-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Eg1UViGP4NI8hnrru9A3-1" target="Eg1UViGP4NI8hnrru9A3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eg1UViGP4NI8hnrru9A3-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;buen(a|o)s (dias|tardes|noches)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="-1070" y="420" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Eg1UViGP4NI8hnrru9A3-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Hola, yo soy Nahyo n.n&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3399;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eg1UViGP4NI8hnrru9A3-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Hola, mi nombre es Nahyo. Soy una IA de conversación sobre anime con muchos easter eggs.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3399;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="440" width="210" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="Eg1UViGP4NI8hnrru9A3-8" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3333FF;fillColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="70" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eg1UViGP4NI8hnrru9A3-9" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Persona&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-930" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eg1UViGP4NI8hnrru9A3-10" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3399;fillColor=#FF3399;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="110" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eg1UViGP4NI8hnrru9A3-11" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Nahyo&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-930" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
